@@ -44,9 +44,11 @@ So I double checked and reviewed this point on CSS-TRICKS  [#133: Figuring Out R
 
 > ...Note that this uses the `w` unit, not `px` as you might expect. This is the image's real size, which can be found by inspecting the image file on your computer .
 
+
+
+There is a small accident. After uploading to Github, I found that four lrg pictures were broken, which made me anxious. While checking carefully, I found that I used capital JPG for the file suffix.
+
 I did not spend too much time in the articles and their layout. I think how to ensure all the images in different screen sizes to work well is the point of this assessment,so What I did more was trying again and again to adjust. I realize there are still many things I need to fix in this assessment,especially in **responsive optimization**.
-
-
 
 ## Attributions
 
@@ -58,9 +60,9 @@ like: https://sait-wbdv.github.io/sample-code/frontend/image-performance/srcset/
 
 ## Webpage 
 
-GH repo: 
+GH repo:  https://github.com/yanlinchen1985/cpnt201-a2
 
-GH Pages website: 
+GH Pages website: https://yanlinchen1985.github.io/cpnt201-a2/ 
 
 
 
