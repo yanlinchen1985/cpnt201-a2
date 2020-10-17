@@ -1,0 +1,59 @@
+/* Making the header like a short hero section*/  
+header {
+  min-height: 30vh;
+  max-width: 100%;
+
+  margin-bottom: 4rem;
+
+  background: linear-gradient(320deg, transparent, rgb(61, 0, 97));
+}
+
+h1 {
+  color: white;
+  font-family: 'Sansita Swashed', cursive;
+  font-size: 6ch;
+
+  text-shadow: 2px 2px 6px rgb(43, 35, 35);
+  text-align: center;
+
+  padding-top: 4rem;
+}
+
+main {
+  width: 80vw;
+  margin: 1rem auto;
+}
+
+/* Set default responsive image width and visible */
+.blog img {
+  max-width: 75vw;
+  width: 1500px;
+  height: auto;
+
+  border: 1px solid black;
+}
+
+/* Making it pretty. */
+.blog {
+  font-size: clamp(18px, 4vw, 32px);
+  font-family: 'Barlow Condensed', sans-serif;
+
+  padding-bottom: 4rem;
+}
+
+
+/* sitky footer*/
+footer {
+  background: rgb(61, 0, 97);
+  color: white;
+  
+  text-align: center;
+
+  padding: 2rem;
+}
+
+/* Resets */
+* {
+  box-sizing: border-box;
+	margin: 0;
+}
