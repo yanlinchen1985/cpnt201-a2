@@ -4,13 +4,13 @@ by  Lynn Chen     Oct,16,2020
 
 
 
-This project is about the website of a Chinese Restaurant named "Panda's kitchen", which specializes in traditional Chinese food. In this Blog home page, there are 5 different Chinses food from its menu with photos and Introductions, which can help viewers know more about this restaurant's dishes.
+This project is about the website of a Chinese Restaurant named "Panda's kitchen", which specializes in traditional Chinese food. In this Blog home page, there are 5 different Chinese food from its menu with photos and Introductions, which can help viewers know more about this restaurant's dishes.
 
 
 
 ## Comments
 
-There are some issues when I optimized the images. These photos come from my family meals these days. I took them with the SLR, so source photos' width and height are 6240px and 4160px. When I optimized them, it was difficult to compress them under 100Kb with 2000px width high quality images.
+There are some issues when I optimized the images. These photos come from my family meals these days. I took them with the SLR, so source photos' width and height are 6240px and 4160px. When I optimized them, it was difficult to compress them under 100Kb to high quality images with 2000px width.
 
 The other problem when I wanted to display them at their respective viewport widths. I used the srcset to do it, but I did it by using small image in our class blog task. However, this time I need to use the medium image set as the src attribute fallback.  
 
